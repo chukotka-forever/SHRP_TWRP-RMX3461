@@ -1,0 +1,11 @@
+# Battery Property
+ro.charger.enable_suspend=1
+
+sys.usb.controller=a600000.dwc3
+sys.usb.rndis.func.name=rndis_bam
+sys.usb.rmnet.func.name=rmnet_bam
+persist.sys.isUsbOtgEnabled=true
+ro.boot.dynamic_partitions=true
+ro.secure=0
+ro.adb.secure=0
+fbe.metadata.wrappedkey=true
